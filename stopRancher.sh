@@ -1,0 +1,1 @@
+docker stop rancher-stack && docker rm rancher-stack
